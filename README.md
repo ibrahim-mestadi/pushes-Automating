@@ -1,5 +1,5 @@
 # pushes-Automating 
-a bash Script to automat pushs with one command
+A bash Script to automat pushs with one command
 
 ## Why this Script
 
