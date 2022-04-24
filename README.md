@@ -13,7 +13,7 @@ chmod +x auto-push.sh
 ```
 * Second :  Now the script is executable we need copy it to a directory that in our system expects to contain executable scripts and code. I'm the only user of my system so I'll copy the script to /usr/bin, with : 
 ```sh
-sudo cp git-push.sh /usr/bin/auto-push.sh
+sudo cp auto-push.sh /usr/bin/auto-push.sh
 ```
 
 * Third : There is no third step the system recognize the script use it & ***Happy codding*** 😊 
